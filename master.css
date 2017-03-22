@@ -1,0 +1,74 @@
+body {
+    color: rgb(70,70,70);
+	font-family: 'Open Sans', sans-serif;
+	background-color: white;
+}
+
+section#card {
+	position: absolute;
+	bottom: 20%;
+	left: 12%;
+	height: 100px;
+}
+
+h1,
+h1 a:link {
+	font-size: 18px;
+	font-weight: 400;
+    letter-spacing: 0.07em;
+	margin-bottom: 0px;
+}
+
+h1 a:hover {
+	color: #B76E79;
+}
+
+h2 {
+	margin-top: 8px;
+	font-size: 17px;
+	font-weight: 100;
+	line-height: 22px;
+	max-width: 400px;
+}
+
+h2 a:link,
+h2 a:visited,
+h2 a:active,
+h2 a:hover {
+	border-bottom: 2px solid #B76E79;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 27px;
+}
+
+ul li {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 3px;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: black;
+	border: none;
+	text-decoration: none;
+	font-weight: 100;
+}
+
+a:hover {
+	color: #B76E79;
+}
+
+ul a {
+	font-size: 14px;
+    letter-spacing: 0.04em;
+	line-height: 19px;
+
+	-webkit-font-smoothing: antialiased;
+}
