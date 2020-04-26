@@ -15,6 +15,7 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 02/06/2020 6:58 PM,compostable,2.326,1.128,1.198
 02/11/2020 3:37 PM,compostable,3.556,1.128,2.428
 02/11/2020 3:39 PM,recyclable,3.290,1.658,1.632
+02/14/2020 10:20 AM,landfill,0.806,0,0.806
 02/14/2020 10:21 AM,compostable,2.086,1.128,0.958
 02/14/2020 10:22 AM,recyclable,2.570,1.658,0.912
 02/14/2020 10:25 PM,compostable,4.488,1.128,3.360
@@ -27,6 +28,7 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 03/04/2020 9:53 AM,recyclable,4.200,1.658,2.542
 03/06/2020 3:07 AM,compostable,4.326,1.128,3.198
 03/08/2020 9:10 AM,compostable,2.152,1.128,1.024
+03/10/2020 3:50 PM,landfill,6.134,1.620,4.514
 03/10/2020 8:18 AM,compostable,1.796,1.128,0.668
 03/13/2020 10:59 AM,compostable,3.806,1.128,2.678
 03/15/2020 12:58 PM,recyclable,2.99,1.658,1.332
@@ -34,6 +36,7 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 03/17/2020 11:23 AM,compostable,2.972,1.128,1.844
 03/18/2020 1:01 PM,compostable,2.594,1.128,1.466
 03/20/2020 3:07 PM,compostable,2.798,1.128,1.670
+03/22/2020 12:48 PM,landfill,0.954,0,0.954
 03/22/2020 12:49 PM,compostable,3.350,1.128,2.222
 03/24/2020 3:17 PM,recyclable,3.854,1.658,2.196
 03/25/2020 1:30 PM,compostable,3.122,1.128,1.994
