@@ -8,7 +8,7 @@ This website is a work in progress. I know it's ugly right now.
 - Focus on making data files as small as possible
 
 ## Measurable metrics
-- None. I worked too many years in marketing to ever want to see that shit again. This is a passion project.
+- None. I worked too many years in marketing to ever want to see that shit again. This is a passion project. Fuck off.
 
 ## Hardware 
 - iPad (6th generation)
