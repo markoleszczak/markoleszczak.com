@@ -18,3 +18,10 @@ This website is a work in progress. I know it's ugly right now.
 
 ## Software 
 - [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334)
+
+## Screenshots
+- 2020
+- 2019
+- 2018
+- 2017
+- 2016
