@@ -8,7 +8,13 @@ This website is a work in progress. I know it's ugly right now.
 - Focus on making data files as small as possible
 
 ## Measurable metrics
-- None. Who gives a shit.
+- None. I worked too many years in marketing to ever want to see that shit again. This is a passion project.
 
-## Software / hardware 
-- X
+## Hardware 
+- iPad (6th generation)
+- iPhone 8
+- iMac (20-inch, Early 2008)
+- MacBook Air (Mid-2012)
+
+## Software 
+- [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334)
