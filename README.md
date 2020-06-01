@@ -1,7 +1,7 @@
 # Notes
 This website is a work in progress.
 
-## Objectives of [markoleszczak.com](http://markoleszczak.com)
+## Objectives
 - To publically share my environmental footprint calculated using the best data I have access to
 - Provide a way for someone to get in contact with me
 - Collect zero information about anyone who visits the website
