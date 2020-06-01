@@ -1,13 +1,13 @@
 # Notes
 This website is a work in progress.
 
-## Objectives of this website
+## Objectives of [markoleszczak.com](http://markoleszczak.com)
 - To publically share my environmental footprint calculated using the best data I have access to
 - Provide a way for someone to get in contact with me
 - Collect zero information about anyone who visits the website
 - Focus on making files as small as possible
 
-## Hardware used to make this
+## Hardware 
 - iPad (6th generation)
 - iPhone 8
 - iMac (20-inch, Early 2008)
