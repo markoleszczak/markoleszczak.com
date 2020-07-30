@@ -1,6 +1,7 @@
 Date,"Type (drive,public transit,fly,walk)",Distance (miles),From (Airport code),To (Airport code),Steps
 
 03/20/2019,drive,24086,,,
+01/01/2020,drive,29274,,,
 02/2020,fly,862,Los Angeles (LAX),Denver (DIA),
 02/2020,fly,1218,Puerto Vallarta (PVR),Los Angeles (LAX),
 02/2020,fly,1322,Denver (DIA),Puerto Vallarta (PVR),
