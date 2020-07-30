@@ -1,4 +1,4 @@
-Date,"Type (drive,public transit,fly,walk)",Distance (miles),From (Airport code),To (Airport code)
+Date,"Type (drive,public transit,fly,walk)",Distance (miles),From (Airport code),To (Airport code),Steps
 
 03/20/2019,drive,24086,,
 02/2020,fly,862,Los Angeles (LAX),Denver (DIA)
@@ -20,7 +20,7 @@ Date,"Type (drive,public transit,fly,walk)",Distance (miles),From (Airport code)
 05/2018,fly,860,Denver (DIA),Los Angeles (LAX)
 2019,walk,1686,,,3560575
 2018,walk,1729,,,3651095
-2017,walk,1346,,,2842255,
+2017,walk,1346,,,2842255
 2016,walk,715,,,1510370
 2015,walk,1032,,,2180510
 2014,walk,712,,,1503435
