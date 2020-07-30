@@ -1,4 +1,4 @@
-Date,Type (Monthly bill or Meter reading),Total consumption (gallons),Current meter reading (gallons),
+Date,Type (Monthly bill or Meter reading),Total consumption (gallons),Current meter reading (gallons)
 11/21/2017,Monthly bill,1000,-
 12/10/2017,Monthly bill,2000,-
 01/09/2018,Monthly bill,6000,-
