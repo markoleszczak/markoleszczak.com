@@ -20,7 +20,7 @@ Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport
 2019,walk,1686,,,3560575,,
 01/2019,fly,531,Kansas City (MCI),Denver (DIA),,,
 03/2019,fly,531,Denver (DIA),Kansas City (MCI),,,
-03/20/2019,drive,24086,,,,,
+03/20/2019,drive,,,,,24086,
 05/2019,fly,861,Denver (DIA),Houston (IAH),,,
 05/2019,fly,1120,Houston (IAH),Pittsburgh (PIT),,,
 05/2019,fly,885,Chicago (ORD),Denver (DIA),,,
