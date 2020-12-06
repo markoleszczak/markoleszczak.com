@@ -1,4 +1,4 @@
-Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport code),To (Airport code),Steps,Odometer,Type of aircraft
+Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport code),To (Airport code),Steps,Odometer,Gasoline (gallons),Type of aircraft
 2012,drive,45000,,,,,,
 2013,drive,45000,,,,,,
 2014,drive,35000,,,,,,
