@@ -1,6 +1,6 @@
 Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport code),To (Airport code),Steps,Odometer,Type of aircraft
 2014,walk,712,,,1503435,,
-2014,walk,712,,,1503435,,
+2014,drive,35000,,,1503435,,
 2015,walk,1032,,,2180510,,
 2016,walk,715,,,1510370,,
 2017,walk,1346,,,2842255,,
