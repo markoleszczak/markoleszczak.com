@@ -32,4 +32,4 @@ Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport
 02/2020,fly,1322,Denver (DIA),Puerto Vallarta (PVR),,,,
 02/2020,fly,1218,Puerto Vallarta (PVR),Los Angeles (LAX),,,,
 02/2020,fly,862,Los Angeles (LAX),Denver (DIA),,,,
-12/22/2020,,,,,,33660,,
+12/22/2020,drive,,,,,33660,,
