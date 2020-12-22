@@ -28,6 +28,7 @@ Date,"Type (drive, public transit, fly, or walk)",Distance (miles),From (Airport
 12/2019,fly,289,Baltimore (BWI),Albany (ALB),,,,
 12/2019,fly,289,Albany (ALB),Baltimore (BWI),,,,
 12/2019,fly,967,Baltimore (BWI),Kansas City (MCI),,,,
+2020,walk,-,,,-,,,
 01/01/2020,drive,,,,,29274,,
 02/2020,fly,1322,Denver (DIA),Puerto Vallarta (PVR),,,,
 02/2020,fly,1218,Puerto Vallarta (PVR),Los Angeles (LAX),,,,
