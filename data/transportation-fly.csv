@@ -1,6 +1,6 @@
 Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
-05/2018,Denver (DIA),Los Angeles (LAX),860,
-05/2018,Los Angeles (LAX),Denver (DIA),860,
+05/9/2018,Denver (DIA),Los Angeles (LAX),860,
+05/12/2018,Los Angeles (LAX),Denver (DIA),860,
 09/14/2018,Denver (DIA),Portland (PDX),989,
 09/16/2018,Portland (PDX),Denver (DIA),989,
 12/22/2018,Denver (DIA),Kansas City (MCI),531,
