@@ -13,6 +13,6 @@ Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
 12/2019,Baltimore (BWI),Albany (ALB),289,
 12/2019,Albany (ALB),Baltimore (BWI),289,
 12/2019,Baltimore (BWI),Kansas City (MCI),967,
-02/2020,Denver (DIA),Puerto Vallarta (PVR),1322,
-02/2020,Puerto Vallarta (PVR),Los Angeles (LAX),1218,Airbus A320
-02/2020,Los Angeles (LAX),Denver (DIA),862,
+02/21/2020,Denver (DIA),Puerto Vallarta (PVR),1322,Airbus A320
+02/25/2020,Puerto Vallarta (PVR),Los Angeles (LAX),1218,Airbus A320
+02/25/2020,Los Angeles (LAX),Denver (DIA),862,Airbus A320
