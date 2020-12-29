@@ -1,8 +1,8 @@
-Date,"Type (public transit, fly, or walk)",Distance (miles),From (Airport code),To (Airport code),Steps,Odometer,Gasoline (gallons),Type of aircraft
-2014,walk,712,,,1503435,,,
-2015,walk,1032,,,2180510,,,
-2016,walk,715,,,1510370,,,
-2017,walk,1346,,,2842255,,,
-2018,walk,1729,,,3651095,,,
-2019,walk,1686,,,3560575,,,
-2020,walk,-,,,-,,,
+Date,Distance (miles),Steps
+2014,712,1503435,
+2015,1032,2180510,
+2016,715,1510370,
+2017,1346,2842255,
+2018,1729,3651095,
+2019,1686,3560575,
+2020,,,
