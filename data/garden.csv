@@ -1,3 +1,15 @@
-Date,pH,Organic Material (%),Organic material added (cubic feet),
-09/01/2020,6.3,1.1,,
-04/06/2021,,,3,
+Date,Raised Bed,Description,Value,
+09/01/2020,C,pH,6.3,
+09/01/2020,C,Electrical conductivity or salts,0.2 mmhos/cm
+09/01/2020,C,Lime,Low
+09/01/2020,C,Texture estimate,Sandy Clay Loam
+09/01/2020,C,Organic Material, 1.1 %
+09/01/2020,C,Nitrate,55.4 ppm
+09/01/2020,C,Phosphorus,83.9 ppm
+09/01/2020,C,Potassium,723.9 ppm
+09/01/2020,C,Zinc,16.7 ppm
+09/01/2020,C,Iron,24.0 ppm
+09/01/2020,C,Manganese,2.5 ppm
+09/01/2020,C,Copper,4.1 ppm
+09/01/2020,C,Boron,0.50 ppm
+04/06/2021,C,Amendment added,3 cubic yards,
