@@ -1,9 +1,9 @@
-Bin,Status,Temperature,Moisture level,Notes
-Bin 1,Closed,,,
-Bin 2,Closed,,,
-Bin 3,Open,,,
-Bin 4,Closed,,,August 21 2020 - April 11 2021 (Curing)
-Bin 5,Open,,,
-Bin 6,Closed,,,April 11 2021 - Present
-Trash,Unknown,,,
-Mulch,Need to order more,,,
+Bin,Status,Notes
+Bin 1,Closed,
+Bin 2,Closed,
+Bin 3,Open,
+Bin 4,Closed,August 21 2020 - April 11 2021 (Curing)
+Bin 5,Open,
+Bin 6,Closed,April 11 2021 - Present
+Trash,Unknown,
+Mulch,Need to order more,
