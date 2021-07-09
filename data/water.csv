@@ -1,4 +1,4 @@
-Date,Type (Municipal water or Meter reading),Total consumption (gallons),Current meter reading (gallons)
+Date,Type (Municipal water + Meter reading + Rain barrel),Total consumption (gallons),Current meter reading (gallons)
 11/21/2017,Municipal water,1000,
 12/10/2017,Municipal water,2000,
 01/09/2018,Municipal water,6000,
