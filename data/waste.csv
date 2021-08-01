@@ -305,7 +305,7 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 05/16/2021 03:53 PM,compostable,3.620,,,
 05/18/2021 08:16 AM,recyclable,6.042,,,
 05/18/2021 08:16 AM,compostable,2.112,,,
-05/21/2021 04:38 PM,compostable,8500.000,,,
+05/21/2021 04:38 PM,compostable,8500.000,,,Excess soil from backyard landscaping
 05/20/2021 09:22 AM,compostable,3.574,,,
 05/21/2021 04:34 PM,recyclable,2.616,,,
 05/22/2021 05:58 PM,compostable,2.588,,,
@@ -339,7 +339,7 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 07/05/2021 09:14 AM,recyclable,5.620,,,
 07/05/2021 10:41 AM,landfill,4.622,,,
 07/06/2021 08:00 AM,compostable,2.560,,,
-07/06/2021 10:00 AM,compostable,-12000.000,,,
+07/06/2021 10:00 AM,compostable,-12000.000,,,A1 Organics EcoGro (6 cubic yards)
 07/09/2021 11:36 AM,compostable,5.354,,,
 07/09/2021 11:36 AM,recyclable,3.706,,,
 07/11/2021 05:10 PM,recyclable,6.404,,,
@@ -350,8 +350,8 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 07/17/2021 08:29 AM,compostable,2.588,,,
 07/19/2021 10:42 AM,compostable,1.912,,,
 07/19/2021 03:39 PM,recyclable,4.214,,,
-07/20/2021 10:20 PM,recyclable,100,,,
-07/20/2021 10:20 PM,landfill,50,,,
+07/20/2021 10:20 PM,recyclable,100,,,Swamp cooler disposal
+07/20/2021 10:20 PM,landfill,50,,,Swamp cooler disposal
 07/21/2021 04:08 PM,compostable,2.01,,,
 07/21/2021 04:09 PM,recyclable,2.388,,,
 07/25/2021 08:37 AM,landfill,4.08,,,
@@ -359,6 +359,3 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 07/26/2021 05:48 PM,recyclable,5.304,,,
 07/29/2021 08:08 AM,compostable,2.85,,,
 07/29/2021 08:08 AM,recyclable,1.904,,,
-08/01/2021 01:45 PM,compostable,20,1.128,18.872,
-08/01/2021 01:45 PM,recyclable,20,1.658,18.342,
-08/01/2021 01:46 PM,landfill,50,1.620,48.38,
