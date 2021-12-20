@@ -134,6 +134,7 @@ Date,Type (Municipal water / Meter reading / Rain barrel),Total consumption (gal
 10/06/2021 05:54 PM,Rain barrel,3.2,
 10/07/2021 08:35 AM,Rain barrel,3.2,
 10/08/2021 10:11 AM,Rain barrel,4.8,
+10/08/2021,Municipal water,8000,
 10/11/2021 08:51 AM,Rain barrel,3.2,
 10/12/2021 10:06 AM,Rain barrel,3.2,
 10/16/2021 08:19 AM,Rain barrel,8,
@@ -143,3 +144,5 @@ Date,Type (Municipal water / Meter reading / Rain barrel),Total consumption (gal
 10/25/2021 08:04 AM,Rain barrel,3.2,
 10/30/2021 10:05 AM,Rain barrel,1.5,
 11/05/2021 10:00 AM,Rain barrel,9.1,
+11/08/2021,Municipal water,4000,
+12/08/2021,Municipal water,4000,
