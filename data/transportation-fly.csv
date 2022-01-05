@@ -18,3 +18,4 @@ Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
 02/25/2020,Los Angeles (LAX),Denver (DIA),862,Airbus A320
 09/29/2021,Denver (DIA),Seattle (SEA),1024,Boeing 737-800/900
 10/02/2021,Seattle (SEA),Denver (DIA),1024,Boeing 737-800/900
+01/04/2022,Kansas City (MCI),Denver (DIA),531,Airbus A321
