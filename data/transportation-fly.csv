@@ -19,5 +19,5 @@ Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
 09/29/2021,Denver (DIA),Seattle (SEA),1024,Boeing 737-800/900
 10/02/2021,Seattle (SEA),Denver (DIA),1024,Boeing 737-800/900
 01/04/2022,Kansas City (MCI),Denver (DIA),531,Airbus A321
-02/01/2022,Denver (DIA),Las Vegas (???),,Airbus A320
-02/03/2022,Las Vegas (???),Denver (DIA),
+02/01/2022,Denver (DIA),Las Vegas (LAS),628,Airbus A320
+02/03/2022,Las Vegas (LAS),Denver (DIA),628,
