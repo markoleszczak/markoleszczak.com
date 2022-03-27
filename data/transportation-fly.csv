@@ -21,3 +21,5 @@ Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
 01/04/2022,Kansas City (MCI),Denver (DIA),531,Airbus A321
 02/01/2022,Denver (DIA),Las Vegas (LAS),628,Airbus A320
 02/03/2022,Las Vegas (LAS),Denver (DIA),628,Airbus A320
+03/22/2022,Denver (DIA),Syracuse (SYR),,Airbus A320
+03/27/2022,Syracuse (SYR),Denver (DIA),,Airbus A319
