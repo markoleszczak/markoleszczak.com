@@ -191,7 +191,6 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 06/07/2022 11:30 AM,recyclable (scrap metal),4.834,,,
 06/07/2022 11:30 AM,recyclable (aluminum),0.392,,,
 06/07/2022 11:30 AM,recyclable (paper),4.758,,,
-
 07/14/2022 03:00 PM,recyclable (scrap metal),4.478,,,
 07/14/2022 03:00 PM,recyclable (aluminum),0.646,,,
 07/14/2022 03:00 PM,recyclable (glass),5.466,,,
@@ -200,6 +199,4 @@ Date,"Type (compostable, landfill, recyclable)",Total weight (pounds),Container 
 07/14/2022 03:00 PM,recyclable (corrugated cardboard),6.704,,,
 07/14/2022 03:00 PM,recyclable (plastics #1 + #2),0.808,,,
 07/14/2022 03:00 PM,recyclable (plastics #5),0.582,,,
-07/14/2022 03:00 PM,recyclable (plastics tetrapak),0.106,,,
-
-
+07/14/2022 03:00 PM,recyclable (Tetra Paks),0.106,,,
