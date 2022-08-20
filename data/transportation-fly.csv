@@ -23,6 +23,6 @@ Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
 02/03/2022,Las Vegas (LAS),Denver (DIA),628,Airbus A320
 03/22/2022,Denver (DIA),Syracuse (SYR),1492,Airbus A320
 03/27/2022,Syracuse (SYR),Denver (DIA),1492,Airbus A319
-08/17/2022,Denver (DIA),Minneapolis (MSP),xxx,XYZ (Delta)
-08/17/2022,Minneapolis (MSP),Milwaukee (MKE),xxx,XYZ (Delta)
-08/20/2022,Milwaukee (XXX),Denver (DIA),xxxx,Boeing 737-800/900 (United)
+08/17/2022,Denver (DIA),Minneapolis (MSP),680,XYZ (Delta)
+08/17/2022,Minneapolis (MSP),Milwaukee (MKE),297,XYZ (Delta)
+08/20/2022,Milwaukee (MKE),Denver (DIA),896,Boeing 737-800/900 (United)
