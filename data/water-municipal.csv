@@ -1,4 +1,4 @@
-Date,Type (Municipal water / Meter reading / Rain barrel),Total consumption (gallons),Current meter reading (gallons)
+Date,Type (Municipal water / Meter reading),Total consumption (gallons),Current meter reading (gallons)
 11/21/2017,Municipal water,1000,
 12/10/2017,Municipal water,2000,
 01/09/2018,Municipal water,6000,
@@ -79,4 +79,11 @@ Date,Type (Municipal water / Meter reading / Rain barrel),Total consumption (gal
 02/2023,Municipal water,-,
 03/2023,Municipal water,-,
 04/01/2023,Meter reading,-8885.84,166095.89
+04/2023,Municipal water,-,
+05/2023,Municipal water,-,
+06/2023,Municipal water,-,
 06/30/2023,Meter reading,-6148.25,172244.14
+07/2023,Municipal water,-,
+08/2023,Municipal water,-,
+09/2023,Municipal water,-,
+09/30/2023,Meter reading,-27524.44,199768.58
