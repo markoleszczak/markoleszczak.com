@@ -1,0 +1,12 @@
+
+fonts/Inter-3.19/.DS_Store
+fonts/Inter-3.19/install-linux.txt
+*.otf
+*.ttf
+*.woff
+*.woff2
+fonts/Inter-3.19/install-mac.txt
+fonts/Inter-3.19/install-win.txt
+fonts/Inter-3.19/LICENSE.txt
+fonts/Inter-3.19/Inter Web/inter.css
+.DS_Store

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Mark Oleszczak</title>
+  <link>https://markoleszczak.com</link>
+  <description>Channel Description</description>
+  
+  <item>
+    <title>Title Test</title>
+    <link>https://markoleszczak.com</link>
+    <description>Item Description</description>
+  </item>
+  
+</channel>
+
+</rss>
