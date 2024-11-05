@@ -1,0 +1,47 @@
+# force non-www domain
+# This was adjusted on DreamHost settings, not here. 
+
+# Removes trailing slash from URL's (I believe. it worked.)
+RewriteRule ^(.+)/$ /$1 [L,R=301]
+
+
+# Send bad requests to 404 page
+ErrorDocument 404 /404.html
+
+# Redirects for RSS feeds
+Redirect 301 /feeds/espanol.xml https://markoleszczak.com/feeds/español.xml
+
+# Redirects for Overflow Compost
+Redirect 301 /overflow-compost https://overflowcompost.com
+Redirect 301 /overflowcompost https://overflowcompost.com
+Redirect 301 /overflow https://overflowcompost.com
+
+# Redirects for Meet Deeno
+Redirect 301 /meet-deeno https://meetdeeno.com
+Redirect 301 /meetdeeno https://meetdeeno.com
+Redirect 301 /deeno https://meetdeeno.com
+Redirect 301 /deenothedino https://meetdeeno.com
+Redirect 301 /deeno-the-dino https://meetdeeno.com
+Redirect 301 /dinosaurs https://meetdeeno.com
+
+# Redirects for Apple Music
+Redirect 301 /music https://music.apple.com/profile/markoleszczak
+
+# Redirects for carbon footprint stuff
+Redirect 301 /carbon https://markoleszczak.com/carbon.pdf
+Redirect 301 /carbon-footprint https://markoleszczak.com/carbon
+Redirect 301 /carbonfootprint https://markoleszczak.com/carbon
+Redirect 301 /footprint https://markoleszczak.com/carbon
+
+# Redirects for Zemma Spice
+Redirect 301 /zemma https://zemmaspice.com
+Redirect 301 /zemmaspice https://zemmaspice.com
+Redirect 301 /zemma-spice https://zemmaspice.com
+Redirect 301 /mezza https://zemmaspice.com
+Redirect 301 /mezzaspice https://zemmaspice.com
+Redirect 301 /mezza-spice https://zemmaspice.com
+Redirect 301 /spice https://zemmaspice.com
+
+# Redirects for Social Media stuff
+Redirect 301 /instagram https://instagram.com/markoleszczak
+Redirect 301 /camera https://instagram.com/markoleszczak

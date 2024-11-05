@@ -1,0 +1,47 @@
+*
+ html {
+      box-sizing: border-box;
+      min-height: 100%;
+      min-width: 100%;
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: inherit;
+    }
+
+
+	h1 {
+      text-align: left;
+      color: Indigo;
+      font-size: 1.2em;
+      font-family: Graphik, Verdana, sans-serif;
+      font-weight: 600;
+	  margin-top: 18%;
+	  margin-left: 12%;
+	}
+
+
+    a {
+      text-align: left;
+      color: rgb(100, 100, 100);
+      font-size: 1.0em;
+      font-family: "Graphik", "Verdana", sans-serif;
+      font-weight: 400;
+	  text-decoration: none;
+	  margin-left: 12%;
+    }
+
+
+
+	/* mouse over link */
+	a:hover {
+	  color: Indigo;
+      transition: color 0.2s ease-in-out;
+	}
+
+
+	ul {
+	  padding: 0;
+	}
