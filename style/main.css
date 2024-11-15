@@ -1,0 +1,90 @@
+*   
+ html {
+      box-sizing: border-box;
+      min-height: 100%;
+      min-width: 100%;
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: rgb(100, 100, 100);
+      font-family: sans-serif;
+      margin: 12%;
+      text-align: left;
+      width: 80%;
+    }
+
+    .tagline {
+      color: rgb(225, 225, 225);
+      font-size: 1em;
+      font-weight: 300;
+    }
+
+    .name {
+      color: rgb(70, 75, 100);
+      font-size: 1em;
+      font-weight: 700;
+	  text-transform: uppercase;
+    }
+
+    .link {
+      font-size: 1em;
+      font-weight: 300;
+      list-style: none;
+      text-decoration:none; 
+    }
+
+
+    ul {
+      list-style: none;
+    }
+
+    a,
+    a:active,
+    a:visited {
+      color: rgb(110, 110, 110);
+      transition: color 0.1s ease-in-out;
+      text-decoration:none; 
+    }
+
+    a:hover {
+      color: rgb(178, 109, 122);
+      text-decoration: none;
+    }
+    
+    
+    
+    
+    
+    
+ /* Homepage Grid */   
+    .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    }
+
+    .grid-item {
+    background-color: rgba(155, 255, 255, 0.8);
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    }
+    
+    
+
+   .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 80px 200px;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
