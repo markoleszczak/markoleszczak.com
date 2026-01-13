@@ -1,0 +1,20 @@
+Date,From (Airport code),To (Airport code),Distance (miles),Type of aircraft
+05/09/2018,Denver (DIA),Los Angeles (LAX),860,
+05/12/2018,Los Angeles (LAX),Denver (DIA),860,
+09/14/2018,Denver (DIA),Portland (PDX),989,
+09/16/2018,Portland (PDX),Denver (DIA),989,
+12/22/2018,Denver (DIA),Kansas City (MCI),531,
+01/01/2019,Kansas City (MCI),Denver (DIA),531,
+03/28/2019,Denver (DIA),Kansas City (MCI),531,
+05/24/2019,Denver (DIA),Houston (IAH),861,
+05/24/2019,Houston (IAH),Pittsburgh (PIT),1120,Bombardier CRJ700
+05/31/2019,Chicago (ORD),Denver (DIA),885,Boeing 757-300
+12/18/2019,Denver (DIA),Baltimore (BWI),1491,
+12/18/2019,Baltimore (BWI),Albany (ALB),289,
+12/23/2019,Albany (ALB),Baltimore (BWI),289,
+12/23/2019,Baltimore (BWI),Kansas City (MCI),967,
+02/21/2020,Denver (DIA),Puerto Vallarta (PVR),1322,Airbus A320
+02/25/2020,Puerto Vallarta (PVR),Los Angeles (LAX),1218,Airbus A320
+02/25/2020,Los Angeles (LAX),Denver (DIA),862,Airbus A320
+09/29/2021,Denver (DIA),Seattle (SEA),1024,Boeing 737-800/900
+10/02/2021,Seattle (SEA),Denver (DIA),1024,Boeing 737-800/900
