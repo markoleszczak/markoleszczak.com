@@ -1,57 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Last updated April 2024 -->
+<!-- Last updated February 2026 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://markoleszczak.com/</loc>
+      <loc>https://markoleszczak.com/sitemap-ar.xml</loc>
    </url>
 
    <url>
-      <loc>https://markoleszczak.com/camera</loc>
+      <loc>https://markoleszczak.com/sitemap-en.xml</loc>
    </url>
    
    <url>
-      <loc>https://markoleszczak.com/carbon</loc>
+      <loc>https://markoleszczak.com/sitemap-es.xml</loc>
    </url>
    
    <url>
-      <loc>https://markoleszczak.com/coffee</loc>
+      <loc>https://markoleszczak.com/sitemap-tr.xml</loc>
    </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/feeds/arabic.xml</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/feeds/english.xml</loc>
-   </url>
-
-   <url>
-      <loc>https://markoleszczak.com/feeds/espanol.xml</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/feeds/turkish.xml</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/language</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/music</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/news</loc>
-   </url>   
-   
-   <url>
-      <loc>https://markoleszczak.com/scorecard</loc>
-   </url>   
-   
-   <url>
-      <loc>https://markoleszczak.com/robots.txt</loc>
-   </url> 
        
 </urlset> 
