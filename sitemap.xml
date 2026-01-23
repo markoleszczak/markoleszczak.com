@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Last updated February 2026 -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-      <loc>https://markoleszczak.com/sitemap-ar.xml</loc>
-   </url>
-
-   <url>
-      <loc>https://markoleszczak.com/sitemap-en.xml</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/sitemap-es.xml</loc>
-   </url>
-   
-   <url>
-      <loc>https://markoleszczak.com/sitemap-tr.xml</loc>
-   </url>
-       
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://markoleszczak.com/sitemap-ar.xml</loc>
+		<lastmod>2026-02-01</lastmod>
+	</url>
+	<url>
+		<loc>https://markoleszczak.com/sitemap-en.xml</loc>
+		<lastmod>2026-02-01</lastmod>
+	</url>
+	<url>
+		<loc>https://markoleszczak.com/sitemap-es.xml</loc>
+		<lastmod>2026-02-01</lastmod>
+	</url>
+	<url>
+		<loc>https://markoleszczak.com/sitemap-tr.xml</loc>
+		<lastmod>2026-02-01</lastmod>
+	</url>    
 </urlset> 
