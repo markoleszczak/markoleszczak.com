@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /
+Disallow: /es/
+Disallow: /ar/
+Disallow: /tr/
 
 Sitemap: https://markoleszczak.com/sitemap.xml
