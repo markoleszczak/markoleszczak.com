@@ -5,22 +5,26 @@
       min-width: 100%;
     }
 
+
     *,
     *::before,
     *::after {
       box-sizing: inherit;
     }
 
+
     :root {
-      font-family: "Inter", sans-serif;
+      font-family: "Inter", Verdana, sans-serif;
       font-feature-settings: "liga" 1, "calt" 1;
     }
 
     @supports (font-variation-settings: normal) {
       :root {
-        font-family: "InterVariable", sans-serif;
+        font-family: "InterVariable", Verdana, sans-serif;
       }
     }	
+
+
 
 	h1 {
       text-align: left;
@@ -46,11 +50,10 @@
     }
 
 
-
 	/* mouse over link */
 	a:hover {
 	  color: Indigo;
-      transition: color 0.2s ease-in-out;
+      transition: color 0.3s ease-in-out;
 	}
 
 
