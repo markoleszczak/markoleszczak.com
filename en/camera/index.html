@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Camera work by Mark Oleszczak">
+  <title>Camera — Mark Oleszczak</title>
+  <link rel="preconnect" href="https://rsms.me/">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+  <link rel="stylesheet" href="/style/main.css">
+  <link rel="stylesheet" href="https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.css">
+</head>
+
+<body class="camera-page">
+  <main class="camera-wrap">
+    <header class="camera-hero">
+      <div class="camera-avatar">MO</div>
+      <div class="camera-identity">
+        <h1>Camera</h1>
+        <p class="camera-bio">A running archive of photos and short clips. Tap any tile to open the lightbox.</p>
+        <div class="camera-links">
+          <a href="/">Home</a>
+          <a href="mailto:web@markoleszczak.com">Email</a>
+        </div>
+      </div>
+    </header>
+
+    <section id="camera-gallery" class="camera-grid pswp-gallery" aria-label="Camera posts">
+      <!-- Image example -->
+      <a
+        class="camera-tile"
+        href="/media/camera/001/hero.jpg"
+        data-pswp-width="1800"
+        data-pswp-height="1200"
+        target="_blank"
+      >
+        <div class="camera-media">
+          <img src="/media/camera/001/thumb.jpg" alt="Post title" loading="lazy">
+        </div>
+      </a>
+
+      <!-- HTML5 video example (custom HTML slide) -->
+      <a
+        class="camera-tile is-video"
+        href="/media/camera/002/hero.jpg"
+        data-pswp-type="html"
+        data-pswp-width="1280"
+        data-pswp-height="720"
+        data-pswp-html='<div class="pswp__html"><video controls playsinline preload="metadata" poster="/media/camera/002/hero.jpg"><source src="/media/camera/002/clip.mp4" type="video/mp4"></video><p class="pswp__caption">Post title · <a href="/en/camera/002/">Open post</a></p></div>'
+        target="_blank"
+      >
+        <div class="camera-media">
+          <img src="/media/camera/002/thumb.jpg" alt="Video title" loading="lazy">
+        </div>
+        <span class="camera-video-badge">VIDEO</span>
+      </a>
+
+      <!-- Another image example -->
+      <a
+        class="camera-tile"
+        href="/media/camera/003/hero.jpg"
+        data-pswp-width="2000"
+        data-pswp-height="1333"
+        target="_blank"
+      >
+        <div class="camera-media">
+          <img src="/media/camera/003/thumb.jpg" alt="Post title" loading="lazy">
+        </div>
+      </a>
+    </section>
+  </main>
+
+  <script type="module">
+    import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5.4.2/dist/photoswipe-lightbox.esm.min.js';
+
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '#camera-gallery',
+      children: 'a',
+      pswpModule: () => import('https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.esm.min.js')
+    });
+
+    lightbox.addFilter('domItemData', (itemData, element, linkEl) => {
+      if (!linkEl) return itemData;
+      const html = linkEl.dataset.pswpHtml;
+      const type = linkEl.dataset.pswpType;
+      if (type === 'html' && html) {
+        itemData.html = html;
+        itemData.type = 'html';
+      }
+      return itemData;
+    });
+
+    lightbox.init();
+  </script>
+</body>
+
+</html>
